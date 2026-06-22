@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing : border-box;
+  font-family : 'helvetica neue';
+}
+html,
+body {
+      background-color: rgba(9, 102, 102, 0.73);
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+h1 {
+    
+    background-color: gray;
+    width: fit-content;
+    padding: 20px 70px;
+    margin-bottom: 10px;
+    margin: 30px;
+}
+
+button{
+width: 70px;
+height: 30px;
+ margin: 20px;
+}
