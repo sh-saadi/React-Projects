@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex: content;
+    justify-content: center;
+    align-items: center;
+}
+button{
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 30px;
+  font-weight: 100;
+}
+
+input{
+  padding: 10px 20px;
+  margin-left : 20p;
+  font-size: 30px;
+  font-weight: 100;
+}
+.console{
+ text-align: center;
+ font-size: 30px;
+ font-weight: 100; 
+}
